@@ -1,4 +1,8 @@
 .. -*- mode: rst -*-
+
+.. image:: https://zenodo.org/badge/9689/mekman/network-tools.svg 
+:target: http://dx.doi.org/10.5281/zenodo.14803
+
 ==============
 Network-tools
 ==============
@@ -25,4 +29,4 @@ Copyright (C) 2011-2015 Network-tools Developers
 - Matthias Ekman <Matthias.Ekman@gmail.com>
 - Charl Linssen <charl@turingbirds.com>
 
-Distributed with a BSD license (3 clause); see LICENSE.txt.
+Distributed with a BSD license (3 clause); see LICENSE
